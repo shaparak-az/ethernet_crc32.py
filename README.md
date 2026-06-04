@@ -1,2 +1,2 @@
-# ethernet_crc32.py
+# ex2
 code
